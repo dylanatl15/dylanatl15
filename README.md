@@ -64,3 +64,5 @@ I'm a **Lead Trailblazer** at UTRGV. In 2026 I was elected lead of the Second Ye
 I'm open to software, ML and AI-agent roles starting after graduation. Email is the fastest way to reach me, or find me on [LinkedIn](https://linkedin.com/in/dtamayo01).
 
 <sub>Some projects (FloraFlow, Optica, Jungle) are showcase repos with the code trimmed on purpose. They run in production, and the write-ups explain how.</sub>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=dylanatl15&style=flat-square&color=lightgrey&label=" height="18" alt=""></p>
